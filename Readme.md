@@ -1,1 +1,1 @@
-#### Coffee image Response Geenrator
+#### Coffee image Response Generator
